@@ -35,7 +35,7 @@
 
 - **Requirements:** Must already be a Senior Developer and show very consistent leadership and development skills/expertise. This role carries with it a lot of responsibility and prestige and is therefore very hard to obtain, only being given to the most knowledgeable and trustworthy of Senior Developers.
 
-- **Permissions:** All previous permissions as well as the ability to merge Pull Requests and create releases in and make updates to PBP GitHub repositories. 
+- **Permissions:** All previous permissions as well as the ability to merge Pull Requests, create releases, and make updates to PBP GitHub repositories. 
 
 - **Responsibilities:** All previous responsibilities as well as helping manage and guide the development team.
 
