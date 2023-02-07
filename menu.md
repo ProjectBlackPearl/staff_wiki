@@ -11,3 +11,4 @@
 -   [Policies](/policies/release_policies.md)
     - [Release Policies](/policies/release_policies.md)
     - [Staff Removal Policies](/policies/removal_policies.md)
+    - [Miscellaneous Policies](/policies/misc_policies.md)
