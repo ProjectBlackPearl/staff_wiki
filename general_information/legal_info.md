@@ -1,0 +1,3 @@
+ ## Legal Information
+
+PBP's legality is a concern [The Digital Millenium Copyright Act of 1998 U.S. Copyright Office Summary](https://www.copyright.gov/legislation/dmca.pdf). This act prohibits the creation or sale of software that circumvent copyright protection measures. However, removing any built-in piracy functionality from PBP and instead allowing end-users to create plugins which offer the same functionality would greatly reduce these concerns as PBP wouldn't be specifically marketed or designed to circumvent aforementioned copyright protection measures. By implementing plugin capabilities, the legal responsibility of creating and/or using any piracy-related plugins falls solely on users who choose to participate in such activites and not on PBP itself.
