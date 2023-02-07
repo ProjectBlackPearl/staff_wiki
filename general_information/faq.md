@@ -14,13 +14,13 @@ As PBP cannot be directly associated with or endorse any pirated software [due t
 
 GitHub permission restrictions are in place in order to minimize the risk of mistakes being caused by a developer having permissions that require a greater level of knowledge and expertise to properly apply than they currently possess.
 
-Junior Developers are still getting a grasp on the app and its codebase and are more prone to errors when adding or modifying files. To avoid this, their Pull Requests must be reviewed by either a Senior Developer, Lead Developer, or Project Manager and merged by either a Lead Developer or Project Manager.
+- Junior Developers are still getting a grasp on the app and its codebase and are more prone to errors when adding or modifying files. To avoid this, their Pull Requests must be reviewed by either a Senior Developer, Lead Developer, or Project Manager and merged by either a Lead Developer or Project Manager.
 
-Senior Developers are able to review and approve PRs because they've demonstrated their experience and expertise with the app's codebase. However, they still cannot merge PRs, as this could cause significant issues when done inappropriately, so PRs can only be merged by Lead Developers or Project Managers.
+- Senior Developers are able to review and approve PRs because they've demonstrated their experience and expertise with the app's codebase. However, they still cannot merge PRs, as this could cause significant issues when done inappropriately, so PRs can only be merged by Lead Developers or Project Managers.
 
-Lead Developers are allowed to merge PRs as they help to lead the development team and have proven they have immense experience and expertise with the app's codebase and are very trustworthy.
+- Lead Developers are allowed to merge PRs as they help to lead the development team and have proven they have immense experience and expertise with the app's codebase and are very trustworthy.
 
-Nobody has permission to commit to the main branch of repositories and only Project Managers have permission to edit repository and organization settings, create repositories, make releases, and so on.
+- Nobody has permission to commit to the main branch of repositories and only Project Managers have permission to edit repository and organization settings, create repositories, make releases, and so on.
 
 ## **4.** Can I contribute to the project by advertising?
 
