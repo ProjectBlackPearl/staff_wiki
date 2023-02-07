@@ -1,1 +1,1 @@
-# staff_wiki
+[General Information](/general_information/faq.md ':include')
